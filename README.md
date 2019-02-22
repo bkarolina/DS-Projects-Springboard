@@ -2,6 +2,6 @@ Portfolio from the intensive program with 550+ hours of hands-on curriculum, wit
 
 
 | Capstone projects | SMS Spam Detection |
-|          -         | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| SMS Spam Detection | in progress |
+| Capstone 2| (to be determined) |
+
