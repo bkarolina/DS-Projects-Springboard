@@ -3,10 +3,10 @@ Portfolio from the intensive program with 550+ hours of hands-on curriculum, wit
 I had been admitted and started this program in November 2018. 
 
 
-| Capstone projects | Documentation |
+| Capstone projects | Documentation | Code |
 | --- | --- |
-| SMS Spam Detection | in progress ([milestone report](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Capstone%20Projects/Milestone%20Report.pdf))|
-| Capstone 2 | *(to be determined)* |
+| SMS Spam Detection | in progress ([milestone report](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Capstone%20Projects/Milestone%20Report.pdf))| *be here till the end of February 2019* |
+| Capstone 2 | *(to be determined)* |  *(to be determined)* |
 
 | Chapter | Mini Projects |
 | --- | --- |
