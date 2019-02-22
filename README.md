@@ -9,7 +9,7 @@ Portfolio from the intensive program with 550+ hours of hands-on curriculum, wit
 | Chapter | Mini Projects |
 | --- | --- |
 | Data wrangling | API  |
-|  | JSON  |
+|  | [API](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/api_data_wrangling_mini_project.ipynb) |
 | Inferential statistics |  |
 | Machine Learning |  |
 |  |  |
