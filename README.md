@@ -14,5 +14,8 @@ Portfolio from the intensive program with 550+ hours of hands-on curriculum, wit
 | Inferential statistics | [Analyze Human Body Temperature](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/sliderule_dsi_inferential_statistics_exercise_1.ipynb) |
 |  | [Examine Racial Discrimination ](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/sliderule_dsi_inferential_statistics_exercise_2.ipynb) |
 |  | [Reduce Hospital Readmissions](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/sliderule_dsi_inferential_statistics_exercise_3.ipynb) |
-| Machine Learning |  |
+| Machine Learning | [Linear Regression Using Boston Housing Data Set](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/Mini_Project_Linear_Regression.ipynb) |
+|  | [Heights and Weights Using Logistic Regression](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/Logistic_Regression.ipynb) |
+|  | [Predicting Movie Ratings from Reviews Using Naive Bayes](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/Naive_Bayes.ipynb) |
+|  | [Customer Segmentation Using Clustering](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/Mini_Project_Clustering.ipynb) |
 
