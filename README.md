@@ -3,6 +3,6 @@ Portfolio from the intensive program with 550+ hours of hands-on curriculum, wit
 
 | Capstone projects | Documentation |
 | --- | --- |
-| SMS Spam Detection | in progress |
+| SMS Spam Detection | in progress(milestone report) |
 | Capstone 2 | *(to be determined)* |
 
