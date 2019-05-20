@@ -21,3 +21,4 @@ I had been admitted and started this program in November 2018.
 |  | [Predicting Movie Ratings from Reviews Using Naive Bayes](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/Naive_Bayes.ipynb) |
 |  | [Customer Segmentation Using Clustering](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/Mini_Project_Clustering.ipynb) |
 
+
