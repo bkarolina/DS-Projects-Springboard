@@ -4,6 +4,6 @@ The SMS Spam Collection v.1 is a public set of SMS labeled messages that have be
 
 Source of data set can be found here [1](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/). 
 
-You can find in this directory Final Report of the project and corresponding code sources of result.
+You can find in this directory Final Report of the project and corresponding code sources of results. The JupyterNotebooks are complementary files to the reports.
 
 
