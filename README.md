@@ -6,7 +6,7 @@ I had been admitted and started this program in November 2018.
 | Capstone projects | Documentation | Code |
 | --- | --- | --- |
 | SMS Spam Detection | [SMS Spam Detection](https://github.com/bkarolina/DS-Projects-Springboard/blob/master/Capstone%20Projects/Final%20Report.pdf)| [JupyterNotebooks](https://github.com/bkarolina/DS-Projects-Springboard/tree/master/Capstone%20Projects) |
-| Capstone 2 | [News: web content sentimental analysis](https://github.com/bkarolina/DS-Projects-Springboard/blob/master/Capstone%20Project%202/Reports/Final_report.pdf) | [JupyterNotebooks](https://github.com/bkarolina/DS-Projects-Springboard/blob/master/News_project_backup.ipynb) |
+| News | [News: web content sentimental analysis](https://github.com/bkarolina/DS-Projects-Springboard/blob/master/Capstone%20Project%202/Reports/Final_report.pdf) | [JupyterNotebooks](https://github.com/bkarolina/DS-Projects-Springboard/blob/master/News_project_backup.ipynb) |
 
 | Chapter | Mini Projects |
 | --- | --- |
