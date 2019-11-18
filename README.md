@@ -14,7 +14,7 @@ I had been admitted and started this program in November 2018.
 |  |[JSON](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/JSON_mini_project.ipynb)  |
 |  | [SQL](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/sql_project.sql) |
 | Inferential statistics | [Analyze Human Body Temperature](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/sliderule_dsi_inferential_statistics_exercise_1.ipynb) |
-|  | [Spark Mini-Project: Databricks edition] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6648961962544977/2738475305936245/1545458566184358/latest.html)
+|  | [Spark Mini-Project: Databricks edition](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6648961962544977/2738475305936245/1545458566184358/latest.html) |
 |  | [Examine Racial Discrimination ](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/sliderule_dsi_inferential_statistics_exercise_2.ipynb) |
 |  | [Reduce Hospital Readmissions](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/sliderule_dsi_inferential_statistics_exercise_3.ipynb) |
 | Machine Learning | [Linear Regression Using Boston Housing Data Set](https://github.com/bkarolina/Data-Science-Career-Track-Projects-Springboard/blob/master/Mini%20Projects/Mini_Project_Linear_Regression.ipynb) |
