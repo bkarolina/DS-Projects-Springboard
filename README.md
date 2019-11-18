@@ -1,6 +1,6 @@
 ### Springboard Data Science Career Track
 Portfolio from the intensive program with 600+ hours of hands-on curriculum, with 1:1 industry expert mentor oversight, and completion of 2 in-depth capstone projects.
-I had been admitted and started this program in November 2018. 
+I finished course on 29 July 2019.
 
 
 | Capstone projects | Documentation | Code |
