@@ -11,5 +11,5 @@ https://github.com/bkarolina/DS-Projects-Springboard/blob/master/Capstone%20Proj
 p.12
 More about f1_score and its details can be found for example here: https://pdfs.semanticscholar.org/1d10/6a2730801b6210a67f7622e4d192bb309303.pdf
 
-4. Results and Discussion
+4. Results and Discussion p.13
 https://github.com/bkarolina/DS-Projects-Springboard/blob/master/News_project_backup.ipynb
