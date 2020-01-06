@@ -7,6 +7,7 @@ Source of data set can be found here [1](http://www.dt.fee.unicamp.br/~tiago/sms
 You can find in this directory Final Report of the project and corresponding code sources of results. The JupyterNotebooks are complementary files to the reports.
 
 As Final Report is in pdf format, links are not clickable. Here you can find mentioned links:
+
 2.3 Inferential Statistics p.9
 https://github.com/bkarolina/Springboard/blob/master/Capstone1%20Inferential%20Statistics.ipynb
 
